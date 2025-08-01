@@ -4,9 +4,10 @@ A personal site to showcase my all live projects and work.
 
 A clean, mobile-responsive personal website built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. This site contains your personal introduction, content sections, and a contact footer with social media links.
 
-## 📸 Demo
+## 🚀 Live Demo
 
-![Website Preview](https://shahidulalam447.github.io/shahidul-works/)  
+👉 **[Click here to show this site](https://shahidulalam447.github.io/shahidul-works/)**  
+🔗 *Opens in new tab (right-click or Ctrl+Click recommended)*
 
 
 ## 🧠 Features
